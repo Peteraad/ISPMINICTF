@@ -69,7 +69,39 @@ Bước 2: Giải liên tục 15 câu hỏi tính tổng 2 chữ số ta đượ
 
 ![image](https://user-images.githubusercontent.com/90112096/135744201-f0553e66-4bc2-45fa-8f25-208ef37dd47b.png)
 
-## PHẦN V: GENERAL SKILLS
+## PHẦN v: WEB 
+###  Bài 1: Beginner
+Một bài tập khởi động trước khi tham gia nhận nhiệm vụ ngày hôm nay!!!
+> http://35.198.208.29:3202/
+
+#### ***Cách giải:***
+Bước 1 : Truy cập vào web và kiểm tra source code. Ta tìm được flag: **ISPCLUB{Not_the_first_time_huhh??} **
+
+![image](https://user-images.githubusercontent.com/90112096/135745398-de8f79df-3986-49c1-b3ed-b49f1334e709.png)
+
+### Bài 2: Deku's Bird
+Chú chim quý của nhà Deku được cái đẹp nhưng lại không có não. Nhiều lần nó xổng ra nhưng đều đâm đầu vào tường rồi lăn ra ngất. Hôm nay nó đã xổng lồng và bay vào 1 hang động đầy thạch nhũ. Deku Haha đã dùng Quang độn thắp sáng cả cái hang này, bạn hãy dùng thuật điều khiển bóng để điều khiển con chim bay qua 222 chướng ngại vật để ra ngoài 1 cách an toàn nhé!!! http://134.209.97.157:5002/
+
+#### ***Cách giải:***
+Bước 1: Truy cập vào web, ta nhận thấy đây là trò chơi Flappy Bird huyền thoại. Tuy nhiên để mà chơi qua 222 điểm thì rất tốn thời gian cho nên ta vào mục Console kiểm tra xem có thuộc tính lưu điểm của đối tượng game không.
+Bước 2: Ta tìm được game.score, có thể hiểu là điểm của mỗi lần chơi. Nhìn lại yêu cầu đề bài là cần bay qua 222 chướng ngại vật nên, ta gán game.score=222
+![image](https://user-images.githubusercontent.com/90112096/135745595-1e13a09c-1edb-4883-91ba-a294b6e8180c.png)
+
+Bước 3: Đợi một lúc ta được flag: **ISPCLUB{4_G00D_PL4Y3R}**
+
+![image](https://user-images.githubusercontent.com/90112096/135745609-857fa195-0a94-48ba-b806-a24ea5b627c4.png)
+
+### Bài 3: Shinra Tensei
+Hiruyzawa Kuhan đã lên kế hoạch phá hủy PTITgakure trong thời gian tới. Bạn có thể vượt thời gian để ngăn chặn kế hoạch của hắn không???
+> http://18.118.154.214:5000/
+
+#### ***Cách giải:***
+
+
+
+
+
+## PHẦN VI: GENERAL SKILLS
 ### Bài 1: Start the new schoolyear
 Một bài test nhanh cho các Genin!!
 
@@ -104,7 +136,7 @@ Bước 1: Sử dụng câu lệnh netcat, kết nối với 35.198.208.29 10001
 
 ![image](https://user-images.githubusercontent.com/90112096/135744462-11f691ea-8dad-4b43-a854-6c4268436f8d.png)
 
-## PHẦN VI: MISC
+## PHẦN VII: MISC
 ### Bài 1: Faster!!!
 Tên Hiruyzawa Kuhan là kẻ có thân thủ rất nhanh. Bạn cần luyện tập cho đôi mắt của mình bắt kịp tốc độ của hắn. Hãy xem bạn đã đủ nhanh để theo dõi hắn chưa
 https://www.youtube.com/watch?v=95qVduCOWTc
@@ -123,7 +155,7 @@ Flag form: ISPCLUB{SECRET_TEXT}
 Bước 1: Đọc đề ta có thể nghĩ ngay đến page của ISP CLUB (https://www.facebook.com/ATTT.PTIT). Nói đến biểu tượng thì chỉ có thể là avatar, ta tìm avatar đầu tiên của câu lạc bộ và cũng là flag của bài : **ISPCLUB{CAPTURE_THE_FLAG}**
 ![image](https://user-images.githubusercontent.com/90112096/135744745-42660366-9a53-4633-976c-002796d9826b.png)
 
-## PHẦN VII: FORENSIC
+## PHẦN VIII: FORENSIC
 ### Bài 1: Covi no Dokumushi
 Với cuốn bí thuật ăn cắp được từ Aburame Ichizoku, Hiruyzawa Kuhan đã sử dụng nó triệu hồi virus Covid tấn công PTITgakure. Ngày qua ngày số lượng ca nhiễm càng tăng lên đặt lên vai các y nhẫn giả một áp lực không hề nhẹ. Theo thống kê, ngày 22/9 số lượng người được chữa khỏi là nhiều nhất. Là genin cũng như là người dân trong làng, liệu bạn có nắm bắt được có bao nhiêu người được chữa khỏi ko???
 
@@ -146,7 +178,7 @@ Bước 2: Quét mã vạch mà ta tìm được trong đấy ta tìm được f
 
 ![image](https://user-images.githubusercontent.com/90112096/135744995-78936db6-a43b-4124-9867-29dbb89853b7.png)
 
-## PHẦN VIII: RE
+## PHẦN VIIII: RE
 ### Bài 1: Reverse no Jutsu
 Có vẻ Deku Haha đã ăn cắp được một mảnh giấy cấm thuật. Nhưng vì quá ảo ma canada nên trong lúc luyện tập phong độn hắn lỡ cắt mảnh giấy thành nhiều phần và bị thổi bay đi. Bây giờ hắn đang khóc lóc và cầu xin bạn giúp tìm từng mảnh để ghép chúng lại. Hắn ta hứa sẽ trả công bạn hậu hĩnh. Bạn có sẵn lòng giúp hắn ko? ( Việc nhẹ lương cao tại sao không làm)
 
