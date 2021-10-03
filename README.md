@@ -84,7 +84,8 @@ Chú chim quý của nhà Deku được cái đẹp nhưng lại không có não
 
 #### ***Cách giải:***
 Bước 1: Truy cập vào web, ta nhận thấy đây là trò chơi Flappy Bird huyền thoại. Tuy nhiên để mà chơi qua 222 điểm thì rất tốn thời gian cho nên ta vào mục Console kiểm tra xem có thuộc tính lưu điểm của đối tượng game không.
-Bước 2: Ta tìm được game.score, có thể hiểu là điểm của mỗi lần chơi. Nhìn lại yêu cầu đề bài là cần bay qua 222 chướng ngại vật nên, ta gán game.score=222
+
+Bước 2: Ta tìm được game.score, có thể hiểu là điểm của mỗi lần chơi. Nhìn lại yêu cầu đề bài là cần bay qua 222 chướng ngại vật nên, ta gán game.score=222.
 ![image](https://user-images.githubusercontent.com/90112096/135745595-1e13a09c-1edb-4883-91ba-a294b6e8180c.png)
 
 Bước 3: Đợi một lúc ta được flag: **ISPCLUB{4_G00D_PL4Y3R}**
