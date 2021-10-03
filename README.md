@@ -29,6 +29,7 @@ Bước 2: Lần lượt chọn Adventurer->[Tên của bạn]->Fight->Fight Bos
 ## PHẦN III: CRYPTO
 ### Bài 1: Gravity Falls Bill
 Đã nhiều lần ăn Ramen tại tiệm Ramen thương hiệu ISP Ichizoku, Deku Haha và bạn đến hôm nay mới để ý thấy rằng trong những tờ hóa đơn thanh toán của tiệm đều có những ký hiệu kỳ lạ. Nghe đồn đây là ấn chú mà chủ tiệm đã khắc lên để nhận biết xem tờ hóa đơn có bị sửa đổi không. Deku Haha thầm nghĩ nếu sắp tới xin gia nhập ISP Ichizoku mà biết được nó và cho vào CV thì rất có ích. Hãy giải mã nó cùng Deku Haha để làm đẹp CV sắp tới của mình nhé!!!
+
 ![encrypt](https://user-images.githubusercontent.com/90112096/135743678-c26f9231-719a-4b42-b2ef-3570dd9848c3.png)
 
 #### ***Cách giải:***
