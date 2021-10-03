@@ -53,4 +53,52 @@ Bước 3: Vậy ta ghép lại được ISP{b4s3_1s_n0t_ tuy nhiên còn đoạ
 
 Bước 4: Ghép 3 đoạn vừa tìm được lại ta có flag cần tìm **ISP{b4s3_1s_n0t_tk4t_d1ff1cult}**
 
+## PHẦN IV: PROGRAMMING
+### Bài 1: Honest or Tricky
+Tưởng shinobi thì không phải làm toán sao, đến bọn trẻ con còn làm tốt nữa là khác. Hãy thử xem liệu bạn có thể hoàn thành những bài toán sau trong thời gian cho phép ko nhé!
+> nc 35.198.208.29 10002
+
+#### ***Cách giải:***
+Bước 1: Sử dụng câu lệnh netcat, kết nối với  35.198.208.29 10002: nc 35.198.208.29 10002
+Bước 2: Giải liên tục 15 câu hỏi tính tổng 2 chữ số ta được flag: **ISPCLUB{m4th_f0R_dUmm13S!!!!!!!}**
+
+![image](https://user-images.githubusercontent.com/90112096/135744201-f0553e66-4bc2-45fa-8f25-208ef37dd47b.png)
+
+## PHẦN V: GENERAL SKILLS
+### Bài 1: Start the new schoolyear
+Một bài test nhanh cho các Genin!!
+
+[exam.zip](https://github.com/Peteraad/ISPMINICTF/files/7272890/exam.zip)
+
+#### ***Cách giải:***
+Bước 1: Tải file về giải nến ta tìm có được thêm 3 file nén nhỏ và một file txt. Mở file txt ta đọc được 3 câu hỏi dành cho 3 cái pass của 3 file nén
+![image](https://user-images.githubusercontent.com/90112096/135744268-ad9aaed2-7e06-46ce-b3ba-25352224cf3c.png)
+
+Bước 2: Lần lượt trả lời các câu hỏi:
+- Câu 1 : sudo
+- Câu 2: cat
+- Câu 3 : ls -a
+Bước 3 : Sau khi giải nén ta được 3 file txt ghép lại ta được flag : **ISPCLUB{L1nux_1z_v3ry_c0nV3n1EnT}**
+
+### Bài 2: Earth Hour
+Hôm nay là ngày Trái Đất! ISP Ichizoku đại diện cho PTITgakure soạn thư gửi tới rất nhiều các quốc gia khác trên Thế giới. Trong thư không chỉ nói lên thông điệp của các nhẫn giả PTITgakure mà còn bao gồm các quốc gia nhận được thư. Hãy xem xem bạn có hiểu được thông điệp của bức thư không nhé!
+[Messenger.txt](https://github.com/Peteraad/ISPMINICTF/files/7272893/Messenger.txt)
+
+#### ***Cách giải:***
+Bước 1: Tải về mở file lên ta thấy được một đoạn mã. Dựa theo đề bài ta có thể nhận ra (x,y) thật ra là tọa độ của các nước trên thế giới.
+Bước 2: Sử dụng https://www.google.com/maps/ tìm các tọa độ và lấy chữ đầu của tên nước ta ghép lại và được flag: **ISPCLUB{OUREARTH}** 
+
+### Bài 3: Sasuke’s Paw Encyclopedia
+Dù cho đã kiếm đc cả dấu chân của vua mèo nhưng papasuke vẫn còn thiếu dấu chân duy nhất của con mèo ma thuật. Papasuke nói sẽ tặng cho bất kì ai kiếm được dấu chân mèo đó 1 ấn chú cấp S. Hãy tìm ra nó và mang về cho papasuke!!!
+> nc 35.198.208.29 10001
+
+#### ***Cách giải***
+Bước 1: Sử dụng câu lệnh netcat, kết nối với 35.198.208.29 10001: nc 35.198.208.29 10001. Sau đó ta nhận được flag: **ISPCLUB{SO_WEIRD_CAT}**
+
+![image](https://user-images.githubusercontent.com/90112096/135744462-11f691ea-8dad-4b43-a854-6c4268436f8d.png)
+
+## PHẦN VI: MISC
+### Bài 1: 
+
+
 
