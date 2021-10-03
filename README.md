@@ -189,4 +189,7 @@ Có vẻ Deku Haha đã ăn cắp được một mảnh giấy cấm thuật. Nh
 Bước 1: Mở file cpp đề bài cho, đọc và ta thấy được thuật toán của chương trình: hàm check có tác dụng kiểm tra dãy string nhập vào có những kí tự trong dãy giống trong hàm check không. 
 
 Bước 2: Thế nên ta chỉ cần khai báo hàm string và giữ nguyên phần có phép so sánh thành phép gán sau đó xuất ra màn hình thì ta tìm được flag của bài: **ISPCLUB{s3xY_n0_jnt5u_K4i_h4r3m}**
+
 Code: https://pastebin.com/FcFSW3bG
+
+Thanks for reading !
