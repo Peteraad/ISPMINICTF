@@ -143,6 +143,7 @@ Bước 1: Do bài chỉ là 1 file GIF nên ta nghĩ ngay đến cách phân r�
 ![image](https://user-images.githubusercontent.com/90112096/135744974-7f9cb5b4-6697-438d-afb7-855269ec5f02.png)
 
 Bước 2: Quét mã vạch mà ta tìm được trong đấy ta tìm được flag là : **ISPCLUB{5p1it_91f}**
+
 ![image](https://user-images.githubusercontent.com/90112096/135744995-78936db6-a43b-4124-9867-29dbb89853b7.png)
 
 ## PHẦN VIII: RE
