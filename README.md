@@ -78,6 +78,7 @@ Bước 2: Lần lượt trả lời các câu hỏi:
 - Câu 1 : sudo
 - Câu 2: cat
 - Câu 3 : ls -a
+
 Bước 3 : Sau khi giải nén ta được 3 file txt ghép lại ta được flag : **ISPCLUB{L1nux_1z_v3ry_c0nV3n1EnT}**
 
 ### Bài 2: Earth Hour
@@ -86,6 +87,7 @@ Hôm nay là ngày Trái Đất! ISP Ichizoku đại diện cho PTITgakure soạ
 
 #### ***Cách giải:***
 Bước 1: Tải về mở file lên ta thấy được một đoạn mã. Dựa theo đề bài ta có thể nhận ra (x,y) thật ra là tọa độ của các nước trên thế giới.
+
 Bước 2: Sử dụng https://www.google.com/maps/ tìm các tọa độ và lấy chữ đầu của tên nước ta ghép lại và được flag: **ISPCLUB{OUREARTH}** 
 
 ### Bài 3: Sasuke’s Paw Encyclopedia
@@ -98,7 +100,52 @@ Bước 1: Sử dụng câu lệnh netcat, kết nối với 35.198.208.29 10001
 ![image](https://user-images.githubusercontent.com/90112096/135744462-11f691ea-8dad-4b43-a854-6c4268436f8d.png)
 
 ## PHẦN VI: MISC
-### Bài 1: 
+### Bài 1: Faster!!!
+Tên Hiruyzawa Kuhan là kẻ có thân thủ rất nhanh. Bạn cần luyện tập cho đôi mắt của mình bắt kịp tốc độ của hắn. Hãy xem bạn đã đủ nhanh để theo dõi hắn chưa
+https://www.youtube.com/watch?v=95qVduCOWTc
 
+#### ***Cách giải:***
+Bước 1: Mở link youtube ra, ta nhận ra video này có phụ đề nên ta vào mục mở bản chép lời ra và ghép các từ đó lại ta được flag: **ISPCLUB{r1ck_r0ll_4g41n}
 
+![image](https://user-images.githubusercontent.com/90112096/135744634-2739578e-280b-45fa-afd0-f14f9db049ca.png)
 
+### Bài 2: First Generation
+Trải qua nhiều thế hệ, biểu tượng của ISP Ichizoku đã được thay đổi rât nhiều nhưng biểu tượng thời sơ khai vẫn được cất giữ cẩn thận trong phòng truyền thống của gia tộc. Trên đó có 1 secret text . Chắc bạn sẽ tìm được nó nhanh thôi.
+
+Flag form: ISPCLUB{SECRET_TEXT}
+
+#### ***Cách giải:***
+Bước 1: Đọc đề ta có thể nghĩ ngay đến page của ISP CLUB (https://www.facebook.com/ATTT.PTIT). Nói đến biểu tượng thì chỉ có thể là avatar, ta tìm avatar đầu tiên của câu lạc bộ và cũng là flag của bài : **ISPCLUB{CAPTURE_THE_FLAG}**
+![image](https://user-images.githubusercontent.com/90112096/135744745-42660366-9a53-4633-976c-002796d9826b.png)
+
+## PHẦN VII: FORENSIC
+### Bài 1: Covi no Dokumushi
+Với cuốn bí thuật ăn cắp được từ Aburame Ichizoku, Hiruyzawa Kuhan đã sử dụng nó triệu hồi virus Covid tấn công PTITgakure. Ngày qua ngày số lượng ca nhiễm càng tăng lên đặt lên vai các y nhẫn giả một áp lực không hề nhẹ. Theo thống kê, ngày 22/9 số lượng người được chữa khỏi là nhiều nhất. Là genin cũng như là người dân trong làng, liệu bạn có nắm bắt được có bao nhiêu người được chữa khỏi ko???
+
+> Flag : ISPCLUB{số lượng người}
+
+#### ***Cách giải:***
+Bước 1: Đọc đề sau đó ta tra cứu trên mạng và thu thập thông tin chính xác từ các web uy tín c https://moh.gov.vn/tin-lien-quan/-/asset_publisher/vjYyM7O9aWnX/content/ngay-22-9-co-11-527-ca-mac-covid-19-rieng-tp-hcm-va-binh-duong-a-ghi-nhan-hon-9-600-ca.
+Bước 2: Vậy flag là : **ISPCLUB{11919}**
+
+### Bài 2: Daichidoukaku
+Tam Vĩ đang nổi điên. Chắc chắn là do Hiruyzawa Kuhan đã cho nó say thuốc. Trong lúc đợi các y nhẫn giả đến và chữa trị cho nó, bạn và hàng trăm genin gần đó có nhiệm vụ cùng nhau thi triển 1 nhẫn thuật để mặt đất rung chuyển và tách ra nhằm làm kìm chân Tam Vĩ, không để nó tiến vào trong làng.
+
+![Supuritto_no_Jutsu](https://user-images.githubusercontent.com/90112096/135744921-8d01b8f7-8716-4aef-b466-aa16e415f3bf.gif)
+
+#### ***Cách giải:***
+Bước 1: Do bài chỉ là 1 file GIF nên ta nghĩ ngay đến cách phân rã file GIF bằng https://en.bloggif.com/gif-extract
+![image](https://user-images.githubusercontent.com/90112096/135744974-7f9cb5b4-6697-438d-afb7-855269ec5f02.png)
+Bước 2: Quét mã vạch mà ta tìm được trong đấy ta tìm được flag là : **ISPCLUB{5p1it_91f}**
+![image](https://user-images.githubusercontent.com/90112096/135744995-78936db6-a43b-4124-9867-29dbb89853b7.png)
+
+## PHẦN VIII: RE
+### Bài 1: Reverse no Jutsu
+Có vẻ Deku Haha đã ăn cắp được một mảnh giấy cấm thuật. Nhưng vì quá ảo ma canada nên trong lúc luyện tập phong độn hắn lỡ cắt mảnh giấy thành nhiều phần và bị thổi bay đi. Bây giờ hắn đang khóc lóc và cầu xin bạn giúp tìm từng mảnh để ghép chúng lại. Hắn ta hứa sẽ trả công bạn hậu hĩnh. Bạn có sẵn lòng giúp hắn ko? ( Việc nhẹ lương cao tại sao không làm)
+
+> https://pastebin.com/6wQC3nGi
+
+#### ***Cách giải:***
+Bước 1: Mở file cpp đề bài cho, đọc và ta thấy được thuật toán của chương trình: hàm check có tác dụng kiểm tra dãy string nhập vào có những kí tự trong dãy giống trong hàm check không. 
+Bước 2: Thế nên ta chỉ cần khai báo hàm string và giữ nguyên phần có phép so sánh thành phép gán sau đó xuất ra màn hình thì ta tìm được flag của bài: **ISPCLUB{s3xY_n0_jnt5u_K4i_h4r3m}**
+Code: https://pastebin.com/FcFSW3bG
