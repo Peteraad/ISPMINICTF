@@ -22,6 +22,7 @@ Một nhãn thuật cấp S được biết đến với cái tên Amaterasu đ�
 
 #### ***Cách giải:***
 Bước 1: Sử dụng lệnh netcat để kết nối với 35.198.208.29 10005: nc 35.198.208.29 10005.
+
 Bước 2: Lần lượt chọn Adventurer->[Tên của bạn]->Fight->Fight Boss. Sau khi đánh bại được Boss ta nhận được flag: **ISPCLUB{h34L_15_p0w3R}**
 
 ![image](https://user-images.githubusercontent.com/90112096/135743610-a39b09f8-f5d8-45d2-85d6-d3cc5bc1bf99.png)
@@ -34,6 +35,7 @@ Bước 2: Lần lượt chọn Adventurer->[Tên của bạn]->Fight->Fight Bos
 
 #### ***Cách giải:***
 Bước 1: Tải file đề cho và mở ra, ta nhận thấy được đây là Gravity Falls Bill Cipher.
+
 Bước 2: Sử dụng trang https://www.dcode.fr/gravity-falls-bill-cipher để giải mã đoạn mã đấy ta tìm được flag: **ISPCLUB{BJLL_CJPKER}**
 ![image](https://user-images.githubusercontent.com/90112096/135743786-be1bea37-366e-4b78-843f-f5f57227bab6.png)
 
@@ -43,15 +45,17 @@ Một bí thuật cơ sở bị trộn lẫn bởi Base Ichizoku để che giấ
 
 #### ***Cách giải:***
 Bước 1: Tải file về ta được đoạn mã : SVNQQ0xVQns623473335f31735f6e30745fORVTI5C7MQYWMZRRMN2WY5D5
+
 Bước 2: Ta thử decode đoạn mã dưới dạng base64 ta thu được:
 ![image](https://user-images.githubusercontent.com/90112096/135743876-96bc94b7-5ef9-45e3-9700-9955f7b89a9d.png)
+
 Bước 3: Qua hình ta có thể thấy đoạn đầu đúng là dạng base 64, tuy nhiên đoạn sau là 623473335f31735f6e30745fORVTI5C7MQYWMZRRMN2WY5D5 không phải dạng base64. Nếu để ý ta thấy đoạn 623473335f31735f6e30745f là đoạn có dạng Hex. Để kiểm chứng ta thử decode nó qua trang https://www.convertstring.com/vi/EncodeDecode/HexDecode
 ![image](https://user-images.githubusercontent.com/90112096/135743915-65630b08-f94a-4369-9728-f8cee1ea1dad.png)
 
-Bước 3: Vậy ta ghép lại được ISP{b4s3_1s_n0t_ tuy nhiên còn đoạn cuối ORVTI5C7MQYWMZRRMN2WY5D5 ta decode sang dạng base32 thì ta ra 
+Bước 4: Vậy ta ghép lại được ISP{b4s3_1s_n0t_ tuy nhiên còn đoạn cuối ORVTI5C7MQYWMZRRMN2WY5D5 ta decode sang dạng base32 thì ta ra 
 ![image](https://user-images.githubusercontent.com/90112096/135743992-61741e94-ff04-4204-9925-e1c5193bc5fe.png)
 
-Bước 4: Ghép 3 đoạn vừa tìm được lại ta có flag cần tìm **ISP{b4s3_1s_n0t_tk4t_d1ff1cult}**
+Bước 5: Ghép 3 đoạn vừa tìm được lại ta có flag cần tìm **ISP{b4s3_1s_n0t_tk4t_d1ff1cult}**
 
 ## PHẦN IV: PROGRAMMING
 ### Bài 1: Honest or Tricky
@@ -60,6 +64,7 @@ Tưởng shinobi thì không phải làm toán sao, đến bọn trẻ con còn 
 
 #### ***Cách giải:***
 Bước 1: Sử dụng câu lệnh netcat, kết nối với  35.198.208.29 10002: nc 35.198.208.29 10002
+
 Bước 2: Giải liên tục 15 câu hỏi tính tổng 2 chữ số ta được flag: **ISPCLUB{m4th_f0R_dUmm13S!!!!!!!}**
 
 ![image](https://user-images.githubusercontent.com/90112096/135744201-f0553e66-4bc2-45fa-8f25-208ef37dd47b.png)
@@ -136,6 +141,7 @@ Tam Vĩ đang nổi điên. Chắc chắn là do Hiruyzawa Kuhan đã cho nó sa
 #### ***Cách giải:***
 Bước 1: Do bài chỉ là 1 file GIF nên ta nghĩ ngay đến cách phân rã file GIF bằng https://en.bloggif.com/gif-extract
 ![image](https://user-images.githubusercontent.com/90112096/135744974-7f9cb5b4-6697-438d-afb7-855269ec5f02.png)
+
 Bước 2: Quét mã vạch mà ta tìm được trong đấy ta tìm được flag là : **ISPCLUB{5p1it_91f}**
 ![image](https://user-images.githubusercontent.com/90112096/135744995-78936db6-a43b-4124-9867-29dbb89853b7.png)
 
@@ -147,5 +153,6 @@ Có vẻ Deku Haha đã ăn cắp được một mảnh giấy cấm thuật. Nh
 
 #### ***Cách giải:***
 Bước 1: Mở file cpp đề bài cho, đọc và ta thấy được thuật toán của chương trình: hàm check có tác dụng kiểm tra dãy string nhập vào có những kí tự trong dãy giống trong hàm check không. 
+
 Bước 2: Thế nên ta chỉ cần khai báo hàm string và giữ nguyên phần có phép so sánh thành phép gán sau đó xuất ra màn hình thì ta tìm được flag của bài: **ISPCLUB{s3xY_n0_jnt5u_K4i_h4r3m}**
 Code: https://pastebin.com/FcFSW3bG
