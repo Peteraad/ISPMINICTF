@@ -78,7 +78,8 @@ Bước 2: Ta sẽ giải 3 loại mật mã lần lượt theo thứ tự :
   - Sử dụng trang web https://cryptii.com/pipes/enigma-machine để decode mật mã ta tìm được messages:
   >enigmaisformilitarycommunication
 
-**FLAG: ISPCLUB{s3cr3t_pr0t3ct0r} **
+
+**FLAG: ISPCLUB{s3cr3t_pr0t3ct0r}**
 ## PHẦN IV: PROGRAMMING
 ### Bài 1: Honest or Tricky
 Tưởng shinobi thì không phải làm toán sao, đến bọn trẻ con còn làm tốt nữa là khác. Hãy thử xem liệu bạn có thể hoàn thành những bài toán sau trong thời gian cho phép ko nhé!
