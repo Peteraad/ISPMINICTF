@@ -201,11 +201,22 @@ Bước 1: Tải file về vã mở file UDRL.py, đọc qua code ta sẽ có nh
  - Flag đã được chuyển qua dãy nhị phân.
  - Flag đã được biến đổi qua các hàm up, down, right, left.
 
-Bước 2: Đi sâu hơn ta sẽ phân tích từng hàm: 
- - Hàm up(x):
-   > def up(x):
-     x = [f"{ord(x[i]) << 1:08b}" for i in range(len(x))]
-     return ''.join(x)
+Bước 2: Đi sâu hơn, ta sẽ phân tích từng hàm: 
+>Hàm up(x):
+   - Đây là hàm convert Flag qua dãy nhị phân. Tuy nhiên dãy nhị phân của mỗi kí tự sẽ làm 8.
+
+>Hàm down(x):
+   = Đây là hàm có tác dụng khi gặp bit 1 sẽ đổi 0 và ngược lại trong dãy nhị phân.
+   
+>Hàm right(x):
+   - Đây là hàm có thể nói là vô dụng vì nó giữ nguyên dãy nhị phân mà không gây biến đổi gì.
+
+>Hàm left(x):
+   - Đây là hàm đảo ngược dãy nhị phân từ dưới lên trên.
+
+>Để kiểm chứng những điều vừa nói mình sẽ thử chạy và xuất ra từng hàm với flag="I" ( để dãy ngắn và dễ phân tích hơn ):
+   ![image](https://user-images.githubusercontent.com/90112096/136208745-9e7b7b99-fa18-40e4-89b9-1c19650f86f6.png)
+
     
     
 Thanks for reading !
