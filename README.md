@@ -225,7 +225,7 @@ Bước 3: Sau khi hiểu rõ bản chất của đoạn code thì ta tiến hà
    
 **CODE:** https://pastebin.com/yVHT8gMp
 
->**FLAG:ISPCLUB{W3ll_c0m3_t0_r3vers!n9}**
+> **FLAG:ISPCLUB{W3ll_c0m3_t0_r3vers!n9}**
 
     
 Thanks for reading !
