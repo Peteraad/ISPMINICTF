@@ -203,10 +203,10 @@ Bước 1: Tải file về vã mở file UDRL.py, đọc qua code ta sẽ có nh
 
 Bước 2: Đi sâu hơn, ta sẽ phân tích từng hàm: 
 >Hàm up(x):
-   - Đây là hàm convert Flag qua dãy nhị phân. Tuy nhiên dãy nhị phân của mỗi kí tự sẽ làm 8.
+   - Đây là hàm convert Flag qua dãy nhị phân. Tuy nhiên số lượng phần tử của dãy nhị phân của mỗi kí tự sẽ là 8.
 
 >Hàm down(x):
-   = Đây là hàm có tác dụng khi gặp bit 1 sẽ đổi 0 và ngược lại trong dãy nhị phân.
+   - Đây là hàm có tác dụng khi gặp bit 1 sẽ đổi 0 và ngược lại trong dãy nhị phân.
    
 >Hàm right(x):
    - Đây là hàm có thể nói là vô dụng vì nó giữ nguyên dãy nhị phân mà không gây biến đổi gì.
@@ -214,9 +214,18 @@ Bước 2: Đi sâu hơn, ta sẽ phân tích từng hàm:
 >Hàm left(x):
    - Đây là hàm đảo ngược dãy nhị phân từ dưới lên trên.
 
->Để kiểm chứng những điều vừa nói mình sẽ thử chạy và xuất ra từng hàm với flag="I" ( để dãy ngắn và dễ phân tích hơn ):
+>Để kiểm chứng những điều vừa nói mình sẽ thử chạy và xuất ra từng hàm với **FLAG="I"** ( để dãy ngắn và dễ phân tích hơn ):
    ![image](https://user-images.githubusercontent.com/90112096/136208745-9e7b7b99-fa18-40e4-89b9-1c19650f86f6.png)
 
-    
+Bước 3: Sau khi hiểu rõ bản chất của đoạn code thì ta tiến hành viết chương trình giải mã ngược lại. 
+> Ta cần :
+   1. Đảo ngược chuỗi
+   2. Loại bỏ phần tử cuối của dãy nhị phân mỗi lần tìm được vì chỉ dãy chỉ có 7 phần tử
+   3. Sau đó ta convert nó qua ASCII bằng trang https://www.rapidtables.com/convert/number/binary-to-ascii.html
+   
+**CODE:** https://pastebin.com/yVHT8gMp
+
+>**FLAG:ISPCLUB{W3ll_c0m3_t0_r3vers!n9}**
+
     
 Thanks for reading !
