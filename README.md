@@ -187,6 +187,7 @@ Với cuốn bí thuật ăn cắp được từ Aburame Ichizoku, Hiruyzawa Kuh
 
 #### ***Cách giải:***
 Bước 1: Đọc đề sau đó ta tra cứu trên mạng và thu thập thông tin chính xác từ các web uy tín c https://moh.gov.vn/tin-lien-quan/-/asset_publisher/vjYyM7O9aWnX/content/ngay-22-9-co-11-527-ca-mac-covid-19-rieng-tp-hcm-va-binh-duong-a-ghi-nhan-hon-9-600-ca.
+
 Bước 2: Vậy flag là : **ISPCLUB{11919}**
 
 ### Bài 2: Daichidoukaku
