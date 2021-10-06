@@ -57,6 +57,28 @@ Bước 4: Vậy ta ghép lại được ISP{b4s3_1s_n0t_ tuy nhiên còn đoạ
 
 Bước 5: Ghép 3 đoạn vừa tìm được lại ta có flag cần tìm **ISP{b4s3_1s_n0t_tk4t_d1ff1cult}**
 
+### Bài 3: Chuunin Exam
+Kỳ thi Chunnin sắp đến gần, hãy chuẩn bị thật tốt để có thể học hỏi từ các Genin khác và có cơ hội được thăng cấp trở thành Chunnin đầu tiên trong thế hệ D21 làng PTIT!
+
+> nc 35.198.208.29 2026
+
+#### ***Cách giải:***
+Bước 1: Kết nối với máy chủ thông qua câu lênh netcat : nc 35.198.208.29 2026
+Bước 2: Ta sẽ giải 3 loại mật mã lần lượt theo thứ tự :
+  1. Roman method of cryptography ( hay được biết tới là Caesar Cipher ):
+>![image](https://user-images.githubusercontent.com/90112096/136212728-2166c707-3d54-4df1-bf03-bca077be6415.png)
+  - Sử dụng trang web https://www.dcode.fr/caesar-cipher để decode mật mã ta tìm được messages : 
+  >Developed around 100 BC, not until 9th-century, Caesar cipher was cracked with the discovery of frequency analysis.
+  2. Ancient Greek technique ( hay được biết tới là Scytale Cipher ):
+>![image](https://user-images.githubusercontent.com/90112096/136213288-e1d9b330-d103-47ca-88cc-8f6f3d3c5dbf.png)
+  - Sử dụng trang web https://www.dcode.fr/scytale-cipher để decode mật mã ta tìm được messages:
+  >Located_at_port_2026_encrypted_by_Scytale
+  3.  Enigma M3
+>![image](https://user-images.githubusercontent.com/90112096/136213988-c55122f4-a4fd-4517-bfad-b714cbdf45e5.png)
+  - Sử dụng trang web https://cryptii.com/pipes/enigma-machine để decode mật mã ta tìm được messages:
+  >enigmaisformilitarycommunication
+
+**FLAG: ISPCLUB{s3cr3t_pr0t3ct0r} **
 ## PHẦN IV: PROGRAMMING
 ### Bài 1: Honest or Tricky
 Tưởng shinobi thì không phải làm toán sao, đến bọn trẻ con còn làm tốt nữa là khác. Hãy thử xem liệu bạn có thể hoàn thành những bài toán sau trong thời gian cho phép ko nhé!
