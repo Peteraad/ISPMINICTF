@@ -192,4 +192,20 @@ Bước 2: Thế nên ta chỉ cần khai báo hàm string và giữ nguyên ph�
 
 Code: https://pastebin.com/FcFSW3bG
 
+### Bài 2: Kakureru
+Bạn và Deku Haha đã tìm thấy một hang động, có lẽ đây là nơi ẩn nấp đã bị bỏ hoang của tổ chức AkatXienPan chăng? Trên hang chứa rất nhiều văn tự nhưng có lẽ chúng đã được viết ngược lại. Hãy giải mã nó để xem có thể tìm được manh mối gì của bọn chúng không nhé!
+> [UDRL (3).zip](https://github.com/Peteraad/ISPMINICTF/files/7293908/UDRL.3.zip)
+
+#### ***Cách giải:***
+Bước 1: Tải file về vã mở file UDRL.py, đọc qua code ta sẽ có những yếu tố sau :
+ - Flag đã được chuyển qua dãy nhị phân.
+ - Flag đã được biến đổi qua các hàm up, down, right, left.
+
+Bước 2: Đi sâu hơn ta sẽ phân tích từng hàm: 
+ - Hàm up(x):
+   > def up(x):
+     x = [f"{ord(x[i]) << 1:08b}" for i in range(len(x))]
+     return ''.join(x)
+    
+    
 Thanks for reading !
