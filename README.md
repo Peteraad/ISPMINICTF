@@ -187,6 +187,12 @@ Bước 1: Sử dụng câu lệnh netcat, kết nối với 35.198.208.29 10001
 
 ![image](https://user-images.githubusercontent.com/90112096/135744462-11f691ea-8dad-4b43-a854-6c4268436f8d.png)
 
+### Bài 4: Himitsu No Ninmu
+Bạn nhận được một nhiệm vụ tuyệt mật từ PTITgakuge: liên lạc với gián điệp của làng đang nằm vùng trong tổ chức AkatXienPan để thu thập thông tin tình báo. Dưới đây là bức mật thư đầu tiên của gián điệp đó. Hãy giải mã nó và tìm ra địa điểm trao đổi thông tin nhé!!!
+> https://pastebin.com/9ESeD3UB
+
+#### ***Cách giải***
+Bước 1: Sau khi vào link đề cung cấp ta thấy một dãy số mà được tạo ra bởi Tupper's formula, nên ta sẽ decode đoạn mã đó qua trang 
 ## PHẦN VII: MISC
 ### Bài 1: Faster!!!
 Tên Hiruyzawa Kuhan là kẻ có thân thủ rất nhanh. Bạn cần luyện tập cho đôi mắt của mình bắt kịp tốc độ của hắn. Hãy xem bạn đã đủ nhanh để theo dõi hắn chưa
