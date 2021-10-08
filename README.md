@@ -287,7 +287,7 @@ Vẫn chứng nào tật nấy, Deku Haha chưa thể sửa được tính vụn
 #### ***Cách giải:***
 Bước 1: Tải tệp về ta thấy có rất nhiều folder có cái có file txt có cái không. Nếu để truy cập từng cái thì rất lâu nên ta chỉ tìm những file đuôi .txt trong tệp ấy.
 
-Bước 2: Xét từng file .txt ta tìm được flag sở file Secret : **ISPCLUB{5uck_4_l0n9_w4y}**
+Bước 2: Xét từng file .txt ta tìm được flag ở file Sceret : **ISPCLUB{5uck_4_l0n9_w4y}**
 
 >![image](https://user-images.githubusercontent.com/90112096/136496789-22082801-61c2-4c4e-8284-79659fec7b9b.png)>
 
