@@ -192,7 +192,35 @@ Bạn nhận được một nhiệm vụ tuyệt mật từ PTITgakuge: liên l�
 > https://pastebin.com/9ESeD3UB
 
 #### ***Cách giải***
-Bước 1: Sau khi vào link đề cung cấp ta thấy một dãy số mà được tạo ra bởi Tupper's formula, nên ta sẽ decode đoạn mã đó qua trang 
+Bước 1: Sau khi vào link đề cung cấp ta thấy một dãy số mà được tạo ra bởi Tupper's formula, nên ta sẽ decode đoạn mã đó qua trang https://tuppers-formula.ovh/. Ta tìm được nội dung đoạn mã.
+> ![image](https://user-images.githubusercontent.com/90112096/136498117-0a433848-8d19-47d9-bce1-c706798dcd4e.png)
+
+Bước 2: Truy cập vào link youtube.com/watch?v=Ht_8roqxwLw. Sau đó để video chạy chậm với tốc độ 0.25 ta thấy được một dãy số.
+>![image](https://user-images.githubusercontent.com/90112096/136498291-4bdd1ad6-6061-4318-a455-fcbf18acc8ce.png)
+
+Bước 3: Sử dụng các điện thoại quét đoạn văn bản đấy. Ta thử decode qua các dạng sau đó nhận ra đây là dạng hex. Mà khi decode từ hex sang ascii ta được một dãy số tiếp theo
+>![image](https://user-images.githubusercontent.com/90112096/136498480-4c957dcf-722a-4afb-8b97-6626afcdbeec.png)
+
+Bước 4: Ta thấy đầu đoạn là " 16-6 : " có thể hiểu là đề muốn nói hay decode đoạn sau đó sang decmical. Tương tự làm đến khi ta được Final: https://pastebin.com/HWptpURt
+
+Bước 5: Vào link tiếp theo ta thầy đề bài là ***At the END OF THE WORLD there is a SLEEPING BEAUTY. To get there, be GENIUS and always remember the LYRICS.***  
+
+> https://genius.com/End-of-the-world-and-epik-high-sleeping-beauty-lyrics : sẽ là bài hát mà bài nhắc tới.
+
+Bước 6: 
+>a = 1:5
+b = 2:1
+c = 5:10
+d = 6:2
+e = 7:1
+f = 10:1
+g = 10:15
+
+pastebin.com/A9Bcdefg
+
+-> Theo quy tắc dòng : chữ, ta tìm được lần lượt được a,b,c,d,e,f,g sau đó thay vào pastebin.com/A9Bcdefg sẽ dẫn đến một link tiếp theo.
+
+Bước 7: 
 ## PHẦN VII: MISC
 ### Bài 1: Faster!!!
 Tên Hiruyzawa Kuhan là kẻ có thân thủ rất nhanh. Bạn cần luyện tập cho đôi mắt của mình bắt kịp tốc độ của hắn. Hãy xem bạn đã đủ nhanh để theo dõi hắn chưa
