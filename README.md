@@ -230,6 +230,28 @@ Bước 2: Quét mã vạch mà ta tìm được trong đấy ta tìm được f
 
 ![image](https://user-images.githubusercontent.com/90112096/135744995-78936db6-a43b-4124-9867-29dbb89853b7.png)
 
+### Bài 3: Sagasu no Jutsu
+Vẫn chứng nào tật nấy, Deku Haha chưa thể sửa được tính vụng về và thói quen để đồ đạc lộn xộn của mình. Lại 1 lần nữa cậu ta để chung nhẫn cụ triệu hồi với cuốn bí thuật trong túi của mình. Và lại 1 lần nữa cậu ta vô tình kích hoạt nhẫn cụ đó, cả 1 đống cuốn trục trông chả khác gì cuốn bí thuật lại hiện ra. Dù rất là phiền phức nhưng bạn hãy một lần nữa giúp cậu ta nhé!!!
+> https://bit.ly/3AWwaCT
+
+#### ***Cách giải:***
+Bước 1: Tải tệp về ta thấy có rất nhiều folder có cái có file txt có cái không. Nếu để truy cập từng cái thì rất lâu nên ta chỉ tìm những file đuôi .txt trong tệp ấy.
+
+Bước 2: Xét từng file .txt ta tìm được flag sở file Secret : **ISPCLUB{5uck_4_l0n9_w4y}**
+
+>![image](https://user-images.githubusercontent.com/90112096/136496789-22082801-61c2-4c4e-8284-79659fec7b9b.png)>
+
+### Bài 4: Rasen...Deku
+Trong gia tộc của Deku có 1 bức tranh nổi tiếng bền nhất trong PTITgakure, rơi bao nhiêu lần không vỡ. Deku Haha đã sử dụng bức tranh làm bia đỡ khi luyện tập và chắc cũng muốn kiểm tra độ bền của nó. Vì dùng Rasengan hơi mạnh nên bức tranh đã bị thành ra như này. Hãy giúp Deku Haha khôi phục nguyên vẹn bức tranh nhé!!!
+>![Deku_cukcuk (2)](https://user-images.githubusercontent.com/90112096/136496865-089b6dc1-e9fa-4c13-a8b4-7159c6f050ea.png)
+
+#### ***Cách giải:***
+Bước 1: Nếu biết về Photoshop thì nhìn quá ta có thể thấy đây là hiệu ứng xoáy về tâm trong đó.
+
+Bước 2: Vào photoshop và thực hiện **Filter->Distort->Twirl**, kéo thanh Angle lên 540 ta sẽ thấy được flag: **ISPCLUB{m4q3ky0u_sk4rjnq4n}**
+
+>![image](https://user-images.githubusercontent.com/90112096/136497134-6743c9bc-1750-4740-900f-0889ac579c1e.png)
+
 ## PHẦN VIIII: RE
 ### Bài 1: Reverse no Jutsu
 Có vẻ Deku Haha đã ăn cắp được một mảnh giấy cấm thuật. Nhưng vì quá ảo ma canada nên trong lúc luyện tập phong độn hắn lỡ cắt mảnh giấy thành nhiều phần và bị thổi bay đi. Bây giờ hắn đang khóc lóc và cầu xin bạn giúp tìm từng mảnh để ghép chúng lại. Hắn ta hứa sẽ trả công bạn hậu hĩnh. Bạn có sẵn lòng giúp hắn ko? ( Việc nhẹ lương cao tại sao không làm)
