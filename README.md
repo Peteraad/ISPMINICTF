@@ -92,7 +92,22 @@ Bước 2: Giải liên tục 15 câu hỏi tính tổng 2 chữ số ta đượ
 
 ![image](https://user-images.githubusercontent.com/90112096/135744201-f0553e66-4bc2-45fa-8f25-208ef37dd47b.png)
 
-## PHẦN v: WEB 
+### Bài 2: Tricky or Honest
+Tưởng shinobi thì không phải làm toán sao, đến bọn trẻ con còn làm tốt nữa là khác. Hãy thử xem liệu bạn có thể hoàn thành những bài toán sau trong thời gian cho phép ko nhé!
+> nc 35.198.208.29 10003
+
+
+#### ***Cách giải:***
+Bước 1: Sử dụng câu lệnh netcat, kết nối với  35.198.208.29 10002: nc 35.198.208.29 10003
+
+Bước 2: Do các phép tính giữa hay dãy số lớn bấm máy tính Casio bình thường sẽ không kịp thời gian 60s nên ta nghĩ đến hướng code socket.
+ - Phân tích điều cần làm:
+   1. Ta cần chia câu hỏi thành hai dãy số riêng biệt để thực hiện các phép tính
+   2. Hiểu được thứ tự nhận được dữ liệu của máy chủ sau mỗi lần trả lời đúng 
+
+Bước 3: Sau đó thực hiện code ta tìm được flag: **ISPCLUB{F45T_a5_71ghtN1n9!!!!}**
+**CODE: https://pastebin.com/FHqWvEiu**
+## PHẦN V: WEB 
 ###  Bài 1: Beginner
 Một bài tập khởi động trước khi tham gia nhận nhiệm vụ ngày hôm nay!!!
 > http://35.198.208.29:3202/
