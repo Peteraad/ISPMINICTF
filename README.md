@@ -137,9 +137,20 @@ Hiruyzawa Kuhan đã lên kế hoạch phá hủy PTITgakure trong thời gian t
 
 #### ***Cách giải:***
 
+### Bài 4: PHP no jutsu
+Deku Haha tìm được một chiếc rương có chứa cuốn trục về một loại nhẫn thuật mới nhưng không tài nào tìm được mật khẩu để mở được rương. Haha đã đến nhờ bạn tìm mật khẩu giúp. Bạn có thể tìm được mật khẩu của rương kho báu giúp Haha không?
 
+> http://35.198.208.29:3103/
 
+#### ***Cách giải:***
+Bước 1: Truy cập vào web và mở source code lên, ta thấy được 1 đoạn <!--hint.txt-->. Thử truy cập vào http://35.198.208.29:3103/hint.txt ta tìm được một đoạn code xét password đúng.
+>![image](https://user-images.githubusercontent.com/90112096/136495686-f21094b5-7984-4c00-8b8e-72c3699c2d74.png)
 
+Bước 2: Phân tích đoạn code, ta có thể thấy có đoạn  ***if (hash("md5", $_GET["password"]) == $_GET["password"])***, xem qua thì có thể thấy hơi vô lý vì làm sao một mã hash lại bằng chính nó được. Tuy nhiên đây là PHP và ngôn ngữ này có một đặc điểm gọi là Type Juggling ( Các bạn có thể nghiên cứu thêm qua https://bitly.com.vn/b1ny4p) 
+
+Bước 3: Vậy ta có thể chọn một “Magic” Number / String	( 0e1137126905 ) trong bài viết trên và ta được flag : **ISPCLUB{php_1s_Suck}**
+
+>![image](https://user-images.githubusercontent.com/90112096/136496132-cfffc6e9-9390-42a5-9bff-067a19d323fa.png)
 
 ## PHẦN VI: GENERAL SKILLS
 ### Bài 1: Start the new schoolyear
