@@ -218,9 +218,25 @@ g = 10:15
 
 pastebin.com/A9Bcdefg
 
--> Theo quy tắc dòng : chữ, ta tìm được lần lượt được a,b,c,d,e,f,g sau đó thay vào pastebin.com/A9Bcdefg sẽ dẫn đến một link tiếp theo.
+-> Theo quy tắc dòng : chữ, ta tìm được lần lượt được a,b,c,d,e,f,g sau đó thay vào pastebin.com/A9Bcdefg sẽ dẫn đến một link tiếp theo : https://pastebin.com/S9Dhfayc
 
-Bước 7: 
+Bước 7: Tiếp theo đề bắt ta phải dịch mã morse ở cuối bài. Tuy nhiên đây là mã morse của nhật bản nên sau khi tìm kiếm trên google ta tìm được bản dịch của nó.
+***Ashita wa hareru yo***
+>https://www.reddit.com/r/morsecode/comments/ctt0hx/the_spotify_version_of_radwimps_song_is_there/
+
+Bước 8: Tiếp theo ta cần tìm nó ở nơi có logo chú chim xanh mà không gì khác là twitter. Ta tìm được account mà đề bài yêu cầu https://twitter.com/shitaWaHareruYo. Tiếp theo là thử thách tìm tên tòa nhà của người chụp trong bức ảnh. 
+>![Location (1)](https://user-images.githubusercontent.com/90112096/136500378-67ab7707-12b4-4176-b80b-5bfa1e944c6f.jpg)
+
+Bước 9: Theo hình ảnh thì ta thấy có thể thấy được được một cửa hàng Chego mà theo thông tin trên google thì nó ở Việt Nam. Phóng to bức ảnh vào biển thì ta có thêm một thông tin cửa hàng ở Hai Bà Trưng, Hà Nội.
+>https://twitter.com/shitaWaHareruYo
+
+Bước 10: Mở google maps, tìm đúng địa chỉ của cửa hàng ấy ta thấy đối diện cửa hàng ấy có một tòa nhà Ruby Plaza mà theo hướng của bức ảnh là hơi chếch qua bên trái thì hoàn toàn đúng.
+>https://twitter.com/shitaWaHareruYo
+
+Bước 11: Nhập rubyplaza để mớ khóa link https://pastebin.com/Tt1SBnV7. Ta nhận được flag: **ISPCLUB{w3lc0me_t0_1nn3r_s4nCtuM}**
+>![flag (2)](https://user-images.githubusercontent.com/90112096/136500810-2a5133ae-dcd2-423b-aa51-481fd85f190b.jpg)
+
+
 ## PHẦN VII: MISC
 ### Bài 1: Faster!!!
 Tên Hiruyzawa Kuhan là kẻ có thân thủ rất nhanh. Bạn cần luyện tập cho đôi mắt của mình bắt kịp tốc độ của hắn. Hãy xem bạn đã đủ nhanh để theo dõi hắn chưa
