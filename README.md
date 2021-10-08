@@ -102,8 +102,8 @@ Bước 1: Sử dụng câu lệnh netcat, kết nối với  35.198.208.29 1000
 
 Bước 2: Do các phép tính giữa hay dãy số lớn bấm máy tính Casio bình thường sẽ không kịp thời gian 60s nên ta nghĩ đến hướng code socket.
  - Phân tích điều cần làm:
-    1. Ta cần chia câu hỏi thành hai dãy số riêng biệt để thực hiện các phép tính
-    2. Hiểu được thứ tự nhận được dữ liệu của máy chủ sau mỗi lần trả lời đúng 
+    + Ta cần chia câu hỏi thành hai dãy số riêng biệt để thực hiện các phép tính
+    + Hiểu được thứ tự nhận được dữ liệu của máy chủ sau mỗi lần trả lời đúng 
 
 Bước 3: Sau đó thực hiện code ta tìm được flag: **ISPCLUB{F45T_a5_71ghtN1n9!!!!}**
 
