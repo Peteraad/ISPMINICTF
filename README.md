@@ -23,9 +23,9 @@ Một nhãn thuật cấp S được biết đến với cái tên Amaterasu đ�
 #### ***Cách giải:***
 Bước 1: Sử dụng lệnh netcat để kết nối với 35.198.208.29 10005: nc 35.198.208.29 10005.
 
-Bước 2: Lần lượt chọn Adventurer->[Tên của bạn]->Fight->Fight Boss. Sau khi đánh bại được Boss ta nhận được flag: **ISPCLUB{h34L_15_p0w3R}**
-
-![image](https://user-images.githubusercontent.com/90112096/135743610-a39b09f8-f5d8-45d2-85d6-d3cc5bc1bf99.png)
+Bước 2: Phân tích qua những lần đánh thử boss. Thì nếu làm bằng tay thì rất lâu và bất khả thi nên chúng ta phải code socket. Ý tưởng sẽ là luôn luôn gửi về giá trị "1" cho đến khi lực attack = máu của boss thì đấm boss. Flag thu được : **ISPCLUB{p0w3R_oF_l0V3!!!}**
+**CODE: https://pastebin.com/D84SjJR4**
+![image](https://user-images.githubusercontent.com/90112096/136637221-f05898c8-a896-4158-b993-6cba7a61a7a3.png)
 
 ## PHẦN III: CRYPTO
 ### Bài 1: Gravity Falls Bill
