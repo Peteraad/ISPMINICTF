@@ -237,6 +237,20 @@ Bước 10: Mở google maps, tìm đúng địa chỉ của cửa hàng ấy ta
 Bước 11: Nhập rubyplaza để mớ khóa link https://pastebin.com/Tt1SBnV7. Ta nhận được flag: **ISPCLUB{w3lc0me_t0_1nn3r_s4nCtuM}**
 >![flag (2)](https://user-images.githubusercontent.com/90112096/136500810-2a5133ae-dcd2-423b-aa51-481fd85f190b.jpg)
 
+### Bài 5 : Chess but not so Stress
+Trong cuộc Đại chiến Ninja Lần thứ 4, Deku Haha đang trên đường làm nhiệm vụ tình báo thì gặp phải Nara Shikashisa, một nhẫn giả với IQ 5 chữ số được Orochimacho dùng "Thố Uể Chuyển Sinh" để hồi sinh nhằm chặn đường các nhẫn giả tình báo. Deku Haha phải giải câu đố sau đây của Shikashisa để tiếp tục nhiệm vụ. Đây là 1 bàn cờ vua khá lạ, Shikashisa muốn bạn sắp xếp lại các quân cờ theo 1 thứ tự "giá trị" nào đó và tìm thông điệp ẩn trong các quân cờ (nội dung flag) đó. Bạn có thể muốn đọc lại luật cờ vua cơ bản 1 chút đó :)
+> ![Chess_but_no_stress (7)](https://user-images.githubusercontent.com/90112096/136637338-5d973d03-0830-424b-b972-f2fe15d87164.png)
+
+#### ***Cách giải:***
+Bước 1: Tải file ảnh về, ta thấy đây là một bàn cờ. Nhìn lại đề ta thấy đề nhấn mạnh từ " giá trị " của các con cờ mà đó là : 
+> ![image](https://user-images.githubusercontent.com/90112096/136637379-d3239597-47b0-4800-870a-f0c8132b4813.png)
+
+Bước 2: Do bàn cờ có giá trị a/b chạy từ 1->9 đến mình có thể nghĩ đến việc chuyển đổi DEC -> ASCII.
+> ![image](https://user-images.githubusercontent.com/90112096/136637455-b9925383-4e24-46ea-9070-0a2351e2fd97.png)
+
+Bước 3: Sắp xếp các " giá trị " theo thứ tự từ bé đến lớn. Sau đó sau vài lần thử thì thứ tự sẽ là : tốt (trắng -đen) mã ; (trắng -đen) tượng ; (trắng -đen) xe ; (trắng -đen) hậu ; (trắng -đen) vua  (trắng -đen). Ta ra được **QMB1T_U3ENG4** hoán đổi vị trị ta ra được flag **ISPCLUB{G4MB1T_QU3EN}**
+ 
+ > ![image](https://user-images.githubusercontent.com/90112096/136637705-6b44a503-baab-41a3-9a65-a28bb7d4afd1.png)
 
 ## PHẦN VII: MISC
 ### Bài 1: Faster!!!
